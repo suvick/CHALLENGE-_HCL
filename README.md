@@ -1,8 +1,12 @@
 # CHALLENGE-_HCL
 
-Build is successful.
+# We will add actuator dependancy before sending it to production.
 
-Find the screenshot of the successful build attached in the project.
+# We can add logger info for the errors so that in future it will easily debuggable.
 
-For Production ready state we need to add actuator dependancy in the project.
+# We can register it to Eureka server for load balancing. 
+
+# We will create jenkin jobs for build and deployment for the particular service.
+
+# We will test it across all environments(DIT,SIT,UAT) before sending it to production.
 
